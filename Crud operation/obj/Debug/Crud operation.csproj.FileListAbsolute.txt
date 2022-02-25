@@ -1,0 +1,2 @@
+D:\performation code\Crud operation\Crud operation\obj\Debug\Crud operation.csproj.AssemblyReference.cache
+D:\performation code\Crud operation\Crud operation\obj\Debug\Crud operation.csproj.CoreCompileInputs.cache
